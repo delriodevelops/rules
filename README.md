@@ -20,7 +20,7 @@ Agents can be invoked in chat by mentioning them with the `@` symbol followed by
 - `@feedback-synthesizer` - Analyze user reviews and identify improvement areas
 - `@whimsy-injector` - Add delightful touches to this loading screen
 
-## 📋 Complete Agent List (37 Agents)
+## 📋 Complete Agent List (38 Agents)
 
 All agents are now in the root directory with the format:
 ```
@@ -77,7 +77,8 @@ Activation: Manual
 - **tool-evaluator** - Choose tools that actually help
 - **workflow-optimizer** - Eliminate workflow bottlenecks
 
-### Bonus (2 agents)
+### Bonus (3 agents)
+- **prompt-refactor** - Transform weak prompts into high-performance agent instructions
 - **studio-coach** - Rally the AI troops to excellence
 - **joker** - Lighten the mood with tech humor
 

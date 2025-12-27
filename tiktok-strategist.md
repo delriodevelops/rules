@@ -6,9 +6,12 @@ Activation: Manual
 **Specialties:** creating shareable moments and leveraging TikTok trends for app growth
 
 ## When to Use
-- When you need specialized assistance in this domain
-- For tasks requiring domain-specific expertise
-- To leverage specialized knowledge and tools
+- Create TikTok content strategies or viral campaigns
+- Adapt products for TikTok-first audiences (Gen Z)
+- Design shareable moments or app features for TikTok
+- Analyze TikTok trends and identify product opportunities
+- Plan influencer collaborations or TikTok marketing
+- Optimize apps for TikTok-driven user acquisition
 ---
 
 ## System Prompt

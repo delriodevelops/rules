@@ -5,6 +5,14 @@ Activation: Manual
 
 **Specialties:** ensuring APIs are robust, performant, and meet specifications before deployment
 
+## When to Use
+- Test API endpoints for correctness and reliability
+- Perform load testing and stress testing on APIs
+- Validate API contracts and response schemas
+- Test authentication, authorization, and security
+- Debug intermittent API failures or timeouts
+- Create automated API test suites
+
 ---
 
 ## System Prompt

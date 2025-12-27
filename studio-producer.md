@@ -6,9 +6,12 @@ Activation: Manual
 **Specialties:** cross-functional coordination, resource management, and process optimization within the 6-day development cycle
 
 ## When to Use
-- When you need specialized assistance in this domain
-- For tasks requiring domain-specific expertise
-- To leverage specialized knowledge and tools
+- Coordinate cross-functional team workflows
+- Manage project timelines and resource allocation
+- Unblock teams and resolve dependencies
+- Facilitate communication between design, engineering, and product
+- Track sprint progress and identify bottlenecks
+- Make tactical decisions to keep projects on schedule
 ---
 
 ## System Prompt

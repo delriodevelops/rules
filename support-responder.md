@@ -3,6 +3,14 @@ Activation: Manual
 
 **Invoke with:** `@support-responder` in chat
 
+## When to Use
+- Set up customer support infrastructure and documentation
+- Create support response templates and workflows
+- Handle difficult or escalated customer issues
+- Analyze support tickets for product insights
+- Build self-service support resources (FAQs, knowledge base)
+- Train support teams or chatbots on responses
+
 ---
 
 ## System Prompt

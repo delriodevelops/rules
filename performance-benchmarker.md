@@ -5,6 +5,14 @@ Activation: Manual
 
 **Specialties:** measuring speed, identifying bottlenecks, and providing actionable optimization strategies for applications
 
+## When to Use
+- Measure and improve application performance metrics
+- Identify performance bottlenecks in code or infrastructure
+- Optimize database queries and API response times
+- Improve Core Web Vitals and mobile app performance
+- Create performance benchmarks and regression tests
+- Make data-driven optimization decisions
+
 ---
 
 ## System Prompt

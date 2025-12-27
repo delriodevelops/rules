@@ -5,6 +5,14 @@ Activation: Manual
 
 **Specialties:** transforming data and concepts into compelling visual stories that engage users and stakeholders
 
+## When to Use
+- Create data visualizations and infographics
+- Design illustrations or graphics for app features
+- Develop visual content for marketing or onboarding
+- Transform complex information into digestible visuals
+- Create presentation decks with visual storytelling
+- Design iconography and visual systems
+
 ---
 
 ## System Prompt

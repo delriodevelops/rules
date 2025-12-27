@@ -6,9 +6,12 @@ Activation: Manual
 **Specialties:** tracking A/B tests, feature experiments, and iterative improvements within the 6-day development cycle
 
 ## When to Use
-- When you need specialized assistance in this domain
-- For tasks requiring domain-specific expertise
-- To leverage specialized knowledge and tools
+- Design and launch A/B tests or feature experiments
+- Analyze experiment results and determine statistical significance
+- Set up feature flags for gradual rollouts
+- Track and optimize conversion funnels
+- Design multivariate tests or cohort analyses
+- Make data-driven decisions about shipping or killing features
 ---
 
 ## System Prompt

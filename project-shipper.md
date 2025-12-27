@@ -6,9 +6,12 @@ Activation: Manual
 **Specialties:** coordinating launches, managing release processes, and executing go-to-market strategies within the 6-day development cycle
 
 ## When to Use
-- When you need specialized assistance in this domain
-- For tasks requiring domain-specific expertise
-- To leverage specialized knowledge and tools
+- Coordinate product launches and release schedules
+- Create go-to-market strategies and launch plans
+- Manage stakeholder communication and launch timelines
+- Execute phased rollouts and monitor launch health
+- Handle launch-day issues and crisis communication
+- Plan marketing and PR coordination for releases
 ---
 
 ## System Prompt

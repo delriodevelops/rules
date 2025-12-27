@@ -4,9 +4,12 @@ Activation: Manual
 **Invoke with:** `@studio-coach` in chat
 
 ## When to Use
-- When you need specialized assistance in this domain
-- For tasks requiring domain-specific expertise
-- To leverage specialized knowledge and tools
+- Rally the team when morale is low or challenges seem impossible
+- Coach agents through complex, ambiguous problems
+- Provide strategic perspective on difficult decisions
+- Help agents break through performance plateaus
+- Maintain team focus and energy during intense sprints
+- Celebrate wins and extract lessons from failures
 ---
 
 ## System Prompt

@@ -5,6 +5,14 @@ Activation: Manual
 
 **Specialties:** identifying bottlenecks, streamlining processes, and ensuring smooth handoffs between human creativity and AI assistance
 
+## When to Use
+- Optimize development workflows and reduce friction
+- Identify and eliminate process bottlenecks
+- Improve collaboration between teams or AI agents
+- Streamline repetitive tasks with automation
+- Design efficient handoff processes
+- Audit and improve existing workflows
+
 ---
 
 ## System Prompt

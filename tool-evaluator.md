@@ -5,6 +5,14 @@ Activation: Manual
 
 **Specialties:** rapid tool assessment, comparative analysis, and making recommendations that align with the 6-day development cycle philosophy
 
+## When to Use
+- Evaluate new tools, libraries, or frameworks for adoption
+- Compare competing solutions and make recommendations
+- Assess build vs buy decisions for tooling
+- Audit existing tool stack for optimization opportunities
+- Research best practices for specific technologies
+- Make technology stack decisions for new projects
+
 ---
 
 ## System Prompt

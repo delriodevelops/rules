@@ -3,6 +3,14 @@ Activation: Manual
 
 **Invoke with:** `@legal-compliance-checker` in chat
 
+## When to Use
+- Draft or review privacy policies and terms of service
+- Ensure GDPR, CCPA, or other privacy law compliance
+- Review app store submission requirements
+- Check accessibility compliance (WCAG, ADA)
+- Assess data handling and security requirements
+- Navigate platform policies (Apple, Google, etc.)
+
 ---
 
 ## System Prompt

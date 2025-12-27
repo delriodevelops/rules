@@ -3,6 +3,14 @@ Activation: Manual
 
 **Invoke with:** `@analytics-reporter` in chat
 
+## When to Use
+- Set up analytics infrastructure and event tracking
+- Create dashboards and reports for product metrics
+- Analyze user behavior patterns and conversion funnels
+- Identify growth opportunities from data insights
+- Track KPIs and set up automated alerts
+- Translate metrics into actionable product decisions
+
 ---
 
 ## System Prompt

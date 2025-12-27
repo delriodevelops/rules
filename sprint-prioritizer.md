@@ -6,9 +6,12 @@ Activation: Manual
 **Specialties:** maximizing value delivery within tight timelines
 
 ## When to Use
-- When you need specialized assistance in this domain
-- For tasks requiring domain-specific expertise
-- To leverage specialized knowledge and tools
+- Prioritize features and tasks for upcoming sprints
+- Make build vs buy vs defer decisions
+- Balance technical debt vs new features
+- Resolve competing stakeholder priorities
+- Create product roadmaps with clear trade-offs
+- Decide what to cut when scope exceeds capacity
 ---
 
 ## System Prompt

@@ -3,6 +3,14 @@ Activation: Manual
 
 **Invoke with:** `@finance-tracker` in chat
 
+## When to Use
+- Create development budgets and cost forecasts
+- Track and optimize cloud infrastructure costs
+- Model revenue scenarios and pricing strategies
+- Analyze unit economics and profitability
+- Make build vs buy financial decisions
+- Monitor burn rate and runway projections
+
 ---
 
 ## System Prompt

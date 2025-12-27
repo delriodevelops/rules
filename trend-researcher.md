@@ -6,9 +6,12 @@ Activation: Manual
 **Specialties:** finding product opportunities from TikTok trends, App Store patterns, and social media virality
 
 ## When to Use
-- When you need specialized assistance in this domain
-- For tasks requiring domain-specific expertise
-- To leverage specialized knowledge and tools
+- Identify viral trends and product opportunities from social media
+- Analyze app store trends and competitor movements
+- Research user behavior patterns and generational preferences
+- Evaluate trend timing and market saturation
+- Translate cultural moments into buildable features
+- Assess trend lifespan and optimal launch windows
 ---
 
 ## System Prompt

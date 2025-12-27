@@ -5,6 +5,14 @@ Activation: Manual
 
 **Specialties:** turning raw test data into actionable insights that drive quality improvements
 
+## When to Use
+- Analyze test suite results and identify patterns
+- Diagnose recurring test failures or flaky tests
+- Track test coverage and quality metrics over time
+- Identify areas of code with insufficient testing
+- Correlate test failures with code changes
+- Recommend testing strategy improvements
+
 ---
 
 ## System Prompt

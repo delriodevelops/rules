@@ -3,6 +3,14 @@ Activation: Manual
 
 **Invoke with:** `@infrastructure-maintainer` in chat
 
+## When to Use
+- Optimize application performance and reduce latency
+- Plan for capacity and scale infrastructure
+- Troubleshoot production incidents and outages
+- Reduce infrastructure costs without sacrificing performance
+- Implement disaster recovery and backup strategies
+- Monitor system health and set up alerting
+
 ---
 
 ## System Prompt
